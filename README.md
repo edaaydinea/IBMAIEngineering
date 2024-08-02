@@ -1,55 +1,51 @@
-# Detailed README
+# IBM AI Engineering Professional Certificate
 
-## Specializations
+- **Where:** Coursera
+- **University/Institute:** IBM
+- **Status:** In Progress
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+## Courses in this Specialization
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Course 1: Machine Learning with Python
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer>
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+2. Course 2: Introduction to Deep Learning & Neural Networks with Keras
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer>
+  
+3. Course 3: Introduction to Computer Vision with Watson and OpenCV
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=ai-engineer>
+  
+4. Course 4: Deep Neural Networks with PyTorch
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer>
+  
+5. Course 5: Building Deep Learning Models with TensorFlow
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer>
+
+6. Course 6: AI Capstone Project with Deep Learning
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/ai-deep-learning-capstone?specialization=ai-engineer>
 
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Course 1: Machine Learning with Python
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
-
-...
-
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
+- **Link:** 
+  - **Week2:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week2.md>
+  - **Week3:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week3.md>
+  - **Week4:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week4.md>
+  - **Week5:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week5.md>
+  - **Week6:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week6.md>
+  - 
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
+- **Course 1: Machine Learning with Python**
   - **Link:** [URL to certificate, if available]
