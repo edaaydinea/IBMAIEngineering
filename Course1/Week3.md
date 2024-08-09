@@ -138,9 +138,7 @@ Here are the corrected formulas in the "Building Decision Trees" section:
     * **Purity of Nodes**: An attribute is better if it results in nodes that are more pure (i.e., nodes where the data is predominantly of one class).
     * **Entropy**: Measure of impurity or randomness in the data. Entropy is zero if all data in a node belong to one class and one if data is evenly split.
         * **Entropy Calculation**: Use the frequency of each class to calculate entropy using the formula:  
-            $$
-            \text{Entropy} = -\sum (P_i \cdot \log_2(P_i))  
-            $$
+            $$\text{Entropy} = -\sum (P_i \cdot \log_2(P_i))  $$
             where \( P_i \) is the proportion of class \( i \) in the node.
 5. **Entropy Calculation Example**
     * **Before Splitting**: Calculate entropy for the entire dataset.
@@ -148,9 +146,7 @@ Here are the corrected formulas in the "Building Decision Trees" section:
 6. **Information Gain**
     * **Definition**: The reduction in entropy (or increase in certainty) after splitting the data using an attribute.
     * **Calculation**:  
-        $$ 
-        \text{Information Gain} = \text{Entropy (before split)} - \text{Weighted Entropy (after split)}  
-        $$
+        $$ \text{Information Gain} = \text{Entropy (before split)} - \text{Weighted Entropy (after split)}  $$
     * **Choosing Best Attribute**: The attribute with the highest information gain is chosen for splitting.
 7. **Building the Tree**
     * **First Split**: Based on the attribute with the highest information gain (e.g., gender).
