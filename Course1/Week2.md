@@ -88,9 +88,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Interpretation**: Emphasizes larger errors due to the squaring of the error terms, making it more sensitive to outliers.
         - 
         
-        $$
-        \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
-        $$
+        $$\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
         
         - where:
             - $y_i$ is the actual value,
@@ -101,9 +99,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Interpretation**: Provides error measurement in the same units as the response variable, making it easier to interpret.
         - 
         
-        $$
-        \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-        $$
+        $$\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}$$
         
         - where:
             - $y_i$ is the actual value,
@@ -114,9 +110,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Interpretation**: Normalizes the error, providing a measure of the model’s performance relative to a simple baseline.
         - 
         
-        $$
-        \text{RAE} = \frac{\sum_{i=1}^{n} |y_i - \hat{y}i|}{\sum{i=1}^{n} |y_i - \bar{y}|} 
-        $$
+        $$\text{RAE} = \frac{\sum_{i=1}^{n} |y_i - \hat{y}i|}{\sum{i=1}^{n} |y_i - \bar{y}|} $$
         
         - where
             - $y_i$  is the actual value,
@@ -128,9 +122,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Interpretation**: Often used in calculating $R^2$, which indicates how well the model fits the data.
         - 
         
-        $$
-         \text{RSE} = \frac{\sum_{i=1}^{n} (y_i - \hat{y}i)^2}{\sum{i=1}^{n} (y_i - \bar{y})^2}
-        $$
+        $$\text{RSE} = \frac{\sum_{i=1}^{n} (y_i - \hat{y}i)^2}{\sum{i=1}^{n} (y_i - \bar{y})^2}$$
         
         - where
             - $y_i$  is the actual value,
@@ -141,9 +133,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Definition**: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
         - **Interpretation**: A higher $R^2$ indicates a better fit of the model to the data.
         
-        $$
-        R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}i)^2}{\sum{i=1}^{n} (y_i - \bar{y})^2}
-        $$
+        $$R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}i)^2}{\sum{i=1}^{n} (y_i - \bar{y})^2}$$
         
         - where
             - $y_i$  is the actual value,
