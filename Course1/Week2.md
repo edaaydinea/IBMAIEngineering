@@ -77,9 +77,7 @@ This video is an excellent starting point for understanding and applying linear 
         - **Interpretation**: Provides a straightforward measure of average error without giving extra weight to larger errors.
         - 
         
-        $$
-        \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
-        $$
+        $$\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|$$
         
         - where:
             - $y_i$ is the actual value,
