@@ -37,15 +37,15 @@
 ### Course 1: Machine Learning with Python
 
 - **Link:** 
-  - **Week2:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week2.md>
-  - **Week3:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week3.md>
-  - **Week4:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week4.md>
-  - **Week5:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week5.md>
-  - **Week6:** <https://github.com/edaaydinea/IBMAIEngineering/blob/main/Course1/Week6.md>
-  - 
+  - [**Week2 Note:**](IBMAIEngineering/blob/main/Course1/Week2.md)
+  - [**Week3 Note:**](IBMAIEngineering/blob/main/Course1/Week3.md)
+  - [**Week4 Note:**](IBMAIEngineering/blob/main/Course1/Week4.md)
+  - [**Week5 Note:**](IBMAIEngineering/blob/main/Course1/Week5.md)
+  - [**Week6 Note:**](IBMAIEngineering/blob/main/Course1/Week6.md)
+
+
 ...
 
 ## Certificates
 
-- **Course 1: Machine Learning with Python**
-  - **Link:** [URL to certificate, if available]
+- [**Course 1: Machine Learning with Python**]()
