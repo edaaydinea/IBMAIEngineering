@@ -146,7 +146,7 @@ Here are the corrected formulas in the "Building Decision Trees" section:
 6. **Information Gain**
     * **Definition**: The reduction in entropy (or increase in certainty) after splitting the data using an attribute.
     * **Calculation**:  
-        $$ \text{Information Gain} = \text{Entropy (before split)} - \text{Weighted Entropy (after split)}  $$
+        $$\text{Information Gain} = \text{Entropy (before split)} - \text{Weighted Entropy (after split)}$$
     * **Choosing Best Attribute**: The attribute with the highest information gain is chosen for splitting.
 7. **Building the Tree**
     * **First Split**: Based on the attribute with the highest information gain (e.g., gender).
